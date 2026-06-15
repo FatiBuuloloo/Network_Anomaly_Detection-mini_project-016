@@ -19,3 +19,8 @@ An enterprise-grade network security solution leveraging an unsupervised Isolati
 ├── preprocessing_data.py               # Feature scaling, transformations, and encoding pipelines
 ├── train.py                            # Production execution script integrated with MLflow
 └── README.md                           # Technical documentation and executive summary
+
+---
+
+## Dataset
+[UNSW-NB15 Dataset](https://research.unsw.edu.au/projects/unsw-nb15-dataset)
